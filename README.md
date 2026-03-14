@@ -1,4 +1,4 @@
-# Yorushika – へび
+# Yorushika – へび - Snake
 
 > **歌詞登録ステータス：同期歌詞あり**
 
